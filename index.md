@@ -8,4 +8,4 @@ To analyse the hedge ratio, we run a bivariate regression using STATA. We use th
 ![ScreenShot](https://user-images.githubusercontent.com/64105261/90769283-f9734980-e2bd-11ea-8dad-351a400f4dab.png)
 
 
-` import excel`
+`import excel`
